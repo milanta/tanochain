@@ -2,7 +2,7 @@
 #Version fork portada de 2.7 a 3.6 de la implementacion de la mini-blockchain del genial articulo de Gerald Nash :https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
 
 #Author: Gerald Nash | http://www.aunyks.com/
-#Fork from 2.7 to 3.6: Tano Mattioli | blog.mattware.com.ar
+#Fork from 2.7 to 3.6 by Tano Mattioli | blog.mattware.com.ar
 
 import hashlib as hasher
 import datetime as date
